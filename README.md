@@ -37,7 +37,7 @@ Raw CSV Data → MySQL Database → Python Analysis → Power BI Dashboard
 - Beauty and watches are the top revenue-generating categories
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Powerbidashboard.png)
 
 ## Files
 - `rfm.py` — RFM segmentation script
@@ -48,4 +48,4 @@ Raw CSV Data → MySQL Database → Python Analysis → Power BI Dashboard
 1. Download the Olist dataset from Kaggle
 2. Set up MySQL database and run the table creation scripts
 3. Run `rfm.py` to generate customer segments
-4. Open `dashboard.pbix` in Power BI Desktop
+4. Open `PowerBIdashboard.png` in Power BI Desktop
