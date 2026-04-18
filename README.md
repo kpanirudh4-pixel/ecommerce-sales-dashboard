@@ -41,7 +41,7 @@ Raw CSV Data → MySQL Database → Python Analysis → Power BI Dashboard
 
 ## Files
 - `rfm.py` — RFM segmentation script
-- `dashboard.pbix` — Power BI dashboard file
+- `Powebi_dashboard.png` — Power BI dashboard screeshot
 - `README.md` — Project documentation
 
 ## How to Run
