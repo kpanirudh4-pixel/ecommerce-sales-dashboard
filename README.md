@@ -45,9 +45,12 @@ Raw CSV Data → MySQL Database → Python Analysis → Power BI Dashboard
 - `README.md` — Project documentation
 
 ## How to Run
-1.Download the dataset from Kaggle:[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+1. Download the dataset from Kaggle:[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 2. Set up MySQL database and run the table creation scripts
+   
 3. Run `rfm.py` to generate customer segments
+   
 4. Open Power BI Desktop and connect to your MySQL database to recreate the dashboard
 
 
