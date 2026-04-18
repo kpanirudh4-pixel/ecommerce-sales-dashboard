@@ -37,11 +37,11 @@ Raw CSV Data → MySQL Database → Python Analysis → Power BI Dashboard
 - Beauty and watches are the top revenue-generating categories
 
 ## Dashboard Preview
-![Dashboard](Powerbi_dashboard.png)
+![Dashboard](Powerbi%20dashboard.png)
 
 ## Files
 - `rfm.py` — RFM segmentation script
-- `Powebi_dashboard.png` — Power BI dashboard screeshot
+- `Powebi%20dashboard.png` — Power BI dashboard screeshot
 - `README.md` — Project documentation
 
 ## How to Run
