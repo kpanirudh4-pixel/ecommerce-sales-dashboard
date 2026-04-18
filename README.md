@@ -21,14 +21,14 @@ Raw CSV Data → MySQL Database → Python Analysis → Power BI Dashboard
 - Top states by order volume
 
 ## Customer Segments (RFM Analysis)
- Segment and Count 
-
-Loyal Customers : 28,274 
-At Risk         : 23,234 
-New Customers   : 15,603 
-Lost            : 15,298 
-Potential Loyal : 7,681
-Champions       : 6,364 
+| Segment | Count |
+|---------|-------|
+| Loyal Customers | 28,274 |
+| At Risk | 23,234 |
+| New Customers | 15,603 |
+| Lost | 15,298 |
+| Potential Loyal | 7,681 |
+| Champions | 6,364 |
 
 ## Key Insights
 - São Paulo accounts for the highest order volume by far
